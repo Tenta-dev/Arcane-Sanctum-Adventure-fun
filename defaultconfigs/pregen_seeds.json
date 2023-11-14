@@ -1,0 +1,110 @@
+{
+	"level_seeds": [
+		{
+			"dim": "minecraft:the_end",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "twilightforest:twilight_forest",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "dimdungeons:dungeon_dimension",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "aether:the_aether",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "doom:doom_hell",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "blue_skies:everbright",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "undergarden:undergarden",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "bloodmagic:dungeon",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "dimdungeons:build_dimension",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "blue_skies:everdawn",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "deeperdarker:otherside",
+			"seed": 6563326214593399525
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "minecraft:the_end",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "twilightforest:twilight_forest",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "dimdungeons:dungeon_dimension",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "aether:the_aether",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "doom:doom_hell",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "blue_skies:everbright",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "undergarden:undergarden",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "bloodmagic:dungeon",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "dimdungeons:build_dimension",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "blue_skies:everdawn",
+			"seed": 6563326214593399525
+		},
+		{
+			"dim": "deeperdarker:otherside",
+			"seed": 6563326214593399525
+		}
+	]
+}
