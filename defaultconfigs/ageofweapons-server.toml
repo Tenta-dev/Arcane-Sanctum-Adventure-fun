@@ -2,7 +2,7 @@
 #General
 [general]
 	#Enables ingame rewards on first spawn for Patreons
-	patreon_rewards = true
+	patreon_rewards = false
 	#This option disables 'modern age' and 'future' -content
 	disale_modern_ages = false
 	#The chance that normal weapons can cause the 'Bleeding'-effect [higher = rarer | 0 = disabled | 1 = everytime]
@@ -16,7 +16,7 @@
 	#Should Legendary weapons are enchantable?
 	enchantable_legendary_weapons = true
 	#Should Legendary weapons are repairable?
-	repairable_legendary_weapons = false
+	repairable_legendary_weapons = true
 
 #Nexus
 [nexus]

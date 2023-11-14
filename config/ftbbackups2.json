@@ -31,7 +31,7 @@
 	// Time between manual backups using the command
 	"manual_backups_time": 0,
 	// Only run a backup if a player has been online since the last backup
-	"only_if_players_been_online": true,
+	"only_if_players_been_online": false,
 	// Additional directories to include in backup
 	"additional_directories": [],
 	/* Additional files and directories to include in backup.
@@ -46,15 +46,15 @@
 	*/
 	"additional_files": [],
 	// Display file size in backup message
-	"display_file_size": false,
+	"display_file_size": true,
 	// backup location
 	"backup_location": ".",
 	// Specify the backup format. Valid options are ZIP and DIRECTORY
 	"backup_format": "ZIP",
 	// Minimum free disk space in MB. If a backup's creation would leave less than this amount of disk space remaining, the backup will be aborted.
-	"minimum_free_space": 0,
+	"minimum_free_space": 30000,
 	// If the previous backup failed due to lack of space, the oldest backup will be deleted to free space.
-	"free_space_if_needed": false,
+	"free_space_if_needed": true,
 	/* Specify files or folders to be excluded.
 	   Can specify a file name, path relative to server directory or wildcard file path
 	   Examples:                       (All file paths are relative to server root)
@@ -67,5 +67,5 @@
 	*/
 	"excluded": [],
 	// The dimension used when creating backup preview image, specify "all" to enable automatic detection of primary dimension (can be very slow)
-	"preview_dimension": "minecraft:overworld"
+	"preview_dimension": "all"
 }

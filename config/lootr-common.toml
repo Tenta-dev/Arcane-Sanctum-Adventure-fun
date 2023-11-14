@@ -30,7 +30,7 @@ loot_modid_blacklist = []
 #list of structures in which contains shouldn't be converted (in the format of ["modid:structure_name", "othermodid:other_structure_name"])
 loot_structure_blacklist = []
 #prevent the destruction of Lootr chests except while sneaking in creative mode
-disable_break = false
+disable_break = true
 #allow the destruction of Lootr chests regardless. overrides `disable_break`
 enable_break = false
 #disregard chests and chunks that are outside of the world border; enable this option if you are using a world border and are suffering consistent TPS issues; if you change the world border, you will need to restart your client
@@ -73,5 +73,5 @@ refresh_dimensions = []
 #list of structures in which loot chests should automatically refresh (in the format of ["modid:structure_name", "othermodid:other_structure_name"])
 refresh_structures = []
 #overriding refresh_loot_tables, refresh_modids and refresh_dimensions: all chests will refresh after being opened for the first time
-refresh_all = false
+refresh_all = true
 

@@ -1,0 +1,35 @@
+{
+  "inventory": {
+    "0:8": "{Count:16b,id:\"minecraft:torch\"}",
+    "0:1": "{Count:1b,id:\"minecraft:wooden_pickaxe\",tag:{Damage:0}}",
+    "0:5": "{Count:1b,id:\"waystones:warp_stone\",tag:{Damage:0}}",
+    "0:2": "{Count:1b,id:\"minecraft:wooden_axe\",tag:{Damage:0}}",
+    "0:0": "{Count:1b,id:\"minecraft:wooden_sword\",tag:{Damage:0}}",
+    "0:4": "{Count:1b,id:\"minecraft:written_book\",tag:{author:\"Tentaichi\",pages:['{\"text\":\"Starting Guide :\\\\nCommands:\\\\nC Zoom\\\\nB Backpack\\\\nM Fullscreen map\\\\n� Waypoint\\\\n< Iron spell wheel\\\\nK Skills epic fight\\\\nR Mode combat\\\\nH Ars nouveau select spell\\\\nJ Elemental trinket pouch\"}'],title:\"Commands guide\"}}",
+    "0:6": "{Count:1b,id:\"sophisticatedbackpacks:backpack\",tag:{contentsUuid:[I;1032217919,-1562948852,-1796376193,492067568],inventorySlots:27,renderInfo:{upgradeItems:[{Count:1b,id:\"minecraft:air\",tag:{}}]},upgradeSlots:1}}",
+    "0:9": "{Count:1b,id:\"solcarrot:food_book\"}",
+    "1:1": "{Count:1b,id:\"minecraft:leather_leggings\",tag:{Damage:2}}",
+    "0:3": "{Count:1b,id:\"minecraft:wooden_shovel\",tag:{Damage:0}}",
+    "0:7": "{Count:16b,id:\"minecraft:apple\"}",
+    "1:2": "{Count:1b,id:\"minecraft:leather_chestplate\",tag:{Damage:2}}"
+  },
+  "kits": {
+    "Start": {
+      "0:8": "{Count:16b,id:\"minecraft:torch\"}",
+      "0:1": "{Count:1b,id:\"minecraft:wooden_pickaxe\",tag:{Damage:0}}",
+      "0:5": "{Count:1b,id:\"waystones:warp_stone\",tag:{Damage:0}}",
+      "0:2": "{Count:1b,id:\"minecraft:wooden_axe\",tag:{Damage:0}}",
+      "0:0": "{Count:1b,id:\"minecraft:wooden_sword\",tag:{Damage:0}}",
+      "0:4": "{Count:1b,id:\"minecraft:written_book\",tag:{author:\"Tentaichi\",pages:['{\"text\":\"Starting Guide :\\\\nCommands:\\\\nC Zoom\\\\nB Backpack\\\\nM Fullscreen map\\\\n� Waypoint\\\\n< Iron spell wheel\\\\nK Skills epic fight\\\\nR Mode combat\\\\nH Ars nouveau select spell\\\\nJ Elemental trinket pouch\"}'],title:\"Commands guide\"}}",
+      "0:6": "{Count:1b,id:\"sophisticatedbackpacks:backpack\",tag:{contentsUuid:[I;1032217919,-1562948852,-1796376193,492067568],inventorySlots:27,renderInfo:{upgradeItems:[{Count:1b,id:\"minecraft:air\",tag:{}}]},upgradeSlots:1}}",
+      "0:9": "{Count:1b,id:\"solcarrot:food_book\"}",
+      "1:1": "{Count:1b,id:\"minecraft:leather_leggings\",tag:{Damage:2}}",
+      "0:3": "{Count:1b,id:\"minecraft:wooden_shovel\",tag:{Damage:0}}",
+      "0:7": "{Count:16b,id:\"minecraft:apple\"}",
+      "1:2": "{Count:1b,id:\"minecraft:leather_chestplate\",tag:{Damage:2}}"
+    }
+  },
+  "wipeBlacklist": [
+    "patchouli"
+  ]
+}

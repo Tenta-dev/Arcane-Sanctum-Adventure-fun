@@ -3,16 +3,16 @@
 		"my_team": true
 	},
 	"ftblibrary": {
-		"toggle.gamemode": true,
-		"toggle.rain": true,
-		"toggle.day": true,
-		"toggle.night": true
+		"toggle.gamemode": false,
+		"toggle.rain": false,
+		"toggle.day": false,
+		"toggle.night": false
 	},
 	"ftbessentials": {
 		"trash_can": true
 	},
 	"ftbchunks": {
-		"chunks": true,
+		"chunks": false,
 		"claim_chunks": true
 	}
 }

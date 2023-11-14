@@ -251,7 +251,7 @@
 #Settings related to the Vein Miner
 [Vein_Miner]
 	#setting to false disables all vein features
-	"vein enabled" = true
+	"vein enabled" = false
 	#If true, default consume will be ignored in favor of only allowing
 	#veining blocks with declared values.
 	"Require Settings" = false

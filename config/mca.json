@@ -116,17 +116,17 @@
     "minecraft:grass_block",
     "minecraft:dirt"
   ],
-  "launchIntoDestiny": true,
-  "allowDestinyCommandOnce": true,
+  "launchIntoDestiny": false,
+  "allowDestinyCommandOnce": false,
   "allowDestinyCommandMoreThanOnce": false,
-  "allowDestinyTeleportation": true,
-  "enablePlayerShaders": true,
-  "enableVillagerPlayerModel": true,
+  "allowDestinyTeleportation": false,
+  "enablePlayerShaders": false,
+  "enableVillagerPlayerModel": false,
   "forceVillagerPlayerModel": false,
-  "allowLimitedPlayerEditor": true,
+  "allowLimitedPlayerEditor": false,
   "allowFullPlayerEditor": false,
-  "allowPlayerSizeAdjustment": true,
-  "adjustPlayerEyesToHeight": true,
+  "allowPlayerSizeAdjustment": false,
+  "adjustPlayerEyesToHeight": false,
   "useModernUSANamesOnly": false,
   "guardsTargetEntities": {
     "minecraft:creeper": -1,
@@ -191,19 +191,19 @@
     "minecraft:ancient_city"
   ],
   "destinyLocationsToTranslationMap": {
-    "minecraft:shipwreck_beached": "destiny.story.sailing",
-    "default": "destiny.story.travelling"
+    "default": "destiny.story.travelling",
+    "minecraft:shipwreck_beached": "destiny.story.sailing"
   },
   "professionConversionsMap": {},
   "shaderLocationsMap": {
-    "sirben": "mca:shaders/post/sirben.json",
-    "color_blind": "minecraft:shaders/post/desaturate.json"
+    "color_blind": "minecraft:shaders/post/desaturate.json",
+    "sirben": "mca:shaders/post/sirben.json"
   },
   "playerRendererBlacklist": {
-    "morph": "arms",
-    "firstperson": "arms",
     "firstpersonmod": "arms",
-    "epicfight": "all"
+    "epicfight": "all",
+    "morph": "arms",
+    "firstperson": "arms"
   },
   "enabledTraits": {
     "SIRBEN": true,

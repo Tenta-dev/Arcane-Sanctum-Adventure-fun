@@ -62,9 +62,9 @@
     }
   },
   "advancedSettings": {
-    "enablePerGui": false,
-    "enablePerItem": false,
-    "enablePerEntity": false,
+    "enablePerGui": true,
+    "enablePerItem": true,
+    "enablePerEntity": true,
     "formatWords": true,
     "debugMode": false,
     "verboseMode": false,
@@ -165,6 +165,10 @@
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
       "buttons": {
+        "button_1": {
+          "label": "DISCORD",
+          "url": "https://discord.gg/q9bmy3p5N7"
+        },
         "default": {
           "label": "Example Text",
           "url": "https://google.com"

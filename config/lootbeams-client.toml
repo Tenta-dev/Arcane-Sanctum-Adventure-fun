@@ -15,10 +15,10 @@
 	["Loot Beams".Beam]
 		#The radius of the Loot Beam.
 		#Range: 0.0 ~ 5.0
-		beam_radius = 0.55
+		beam_radius = 1.0
 		#The height of the Loot Beam.
 		#Range: 0.0 ~ 10.0
-		beam_height = 1.5
+		beam_height = 10.0
 		#The Y-offset of the loot beam.
 		#Range: -30.0 ~ 30.0
 		beam_y_offset = 0.5
@@ -29,7 +29,7 @@
 		beam_alpha = 0.75
 		#The distance from the player the beam should start fading.
 		#Range: 0.0 ~ 100.0
-		beam_fade_distance = 2.0
+		beam_fade_distance = 100.0
 		#If the Loot Beam should use a solid texture or the beacon style texture.
 		solid_beam = true
 		#If the Loot Beam should have a white center.
@@ -40,7 +40,7 @@
 		glow_effect = true
 		#The radius of the glow effect.
 		#Range: 1.0E-5 ~ 1.0
-		glow_effect_radius = 0.5
+		glow_effect_radius = 1.0
 		#If the glow effect should be animated.
 		animate_glow = true
 		#If the item must be on the ground to render a beam.
@@ -101,7 +101,7 @@
 	#Item Config
 	["Loot Beams".Items]
 		#If items should glow.
-		items_glow = false
+		items_glow = true
 		#If all Items Loot Beams should be rendered. Has priority over only_equipment and only_rare.
 		all_items = false
 		#If Loot Beams should only be rendered on items with rarity.
@@ -153,7 +153,7 @@
 		#If the player should be crouching to see extended advanced tooltips.
 		screen_tooltips_require_crouch = true
 		#If the name and rarity should be combined into one tooltip.
-		combine_name_and_rarity = false
+		combine_name_and_rarity = true
 
 	#Sounds
 	["Loot Beams".Sounds]

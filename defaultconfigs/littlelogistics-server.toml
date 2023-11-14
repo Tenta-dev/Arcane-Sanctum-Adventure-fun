@@ -10,7 +10,7 @@
 	#Range: 0 ~ 1000
 	maxVehiclesPerPlayer = 100
 	#Load vehicles even when the player is offline
-	offlineLoading = false
+	offlineLoading = true
 
 [vessel]
 

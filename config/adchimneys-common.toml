@@ -34,7 +34,7 @@
 
 [Pump]
 	#If set to True, the redstone signal will turn the pump off instead of turning it on
-	invertedRedstoneSignal = false
+	invertedRedstoneSignal = true
 
 	[Pump.ForgeEnergy]
 		#Whether Forge Energy is required or not

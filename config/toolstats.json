@@ -1,11 +1,11 @@
 {
   "showEnchantability": true,
-  "alwaysShowEnchantability": false,
+  "alwaysShowEnchantability": true,
   "showRepairCost": true,
-  "alwaysShowRepairCost": false,
+  "alwaysShowRepairCost": true,
   "showHarvestLevel": true,
   "showEfficiency": true,
-  "showSwordEfficiency": false,
+  "showSwordEfficiency": true,
   "showDurability": true,
-  "alwaysShowDurability": false
+  "alwaysShowDurability": true
 }

@@ -36,7 +36,7 @@
 
 	[general.cages]
 		#Allow other non-hostile mobs to be caught by birdcages. Default = false
-		allowAnythingInCages = false
+		allowAnythingInCages = true
 
 	[general.nests]
 		#Allow eggs to regenerate in nests. Default = true
